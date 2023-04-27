@@ -1,0 +1,1 @@
+La prise en main de git; c'est fantastique.
